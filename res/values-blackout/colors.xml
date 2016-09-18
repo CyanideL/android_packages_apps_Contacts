@@ -19,7 +19,10 @@
     <color name="quickcontact_entry_sub_header_text_color">#ffffffff</color>
     <color name="quickcontact_entry_header_text_color">#ff1976D2</color>
 
-    <color name="background_social_updates">@*android:color/material_grey_850</color>
+    <color name="background_social_updates">@*android:color/material_grey_900</color>
+
+    <!-- Cyanide Accent Blue -->
+    <color name="cyanide_blue">#ff1976D2</color>
 
     <!-- TODO: remove these colors once we delete the group code (b/16522929) -->
     <color name="action_bar_background">#ff000000</color>
@@ -37,9 +40,9 @@
     <color name="primary_color">#ff000000</color>
 
     <!-- Color of the selected tab underline -->
-    <color name="contacts_accent_color">#ff1976D2</color>
+    <color name="contacts_accent_color">#ffffffff</color>
 
-    <color name="floating_action_button_icon_color">@color/contacts_accent_color</color>
+    <color name="floating_action_button_icon_color">#ffffffff</color>
 
     <!-- Horizontal separator line should be 12% dark in the light theme. -->
     <color name="divider_line_color_light">#1fffffff</color>
@@ -64,4 +67,12 @@
 
     <!-- Color of disabled text and unfocused hint text inside the contact editor. 25% black. -->
     <color name="editor_disabled_text_color">#4dffffff</color>
+
+    <color name="photo_text_bar_bg">#7F000000</color>
+    <color name="text_color_white">@android:color/white</color>
+    <color name="editor_account_header_bg">#111111</color>
+    <color name="list_item_name_text_color">#ffffffff</color>
+    <color name="white">@android:color/white</color>
+    <color name="edit_kind_text_appearance_text_color">#ff1976D2</color>
+    <color name="contacts_confirm_cancel_text_color">#ffffffff</color>
 </resources>
